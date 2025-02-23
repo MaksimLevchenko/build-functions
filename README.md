@@ -25,7 +25,7 @@ This repository will post a script that helps use Serverpod and Buildrunner, and
    ```powershell
    notepad $PROFILE
    ```  
-   Add your desired commands or configurations.
+   Copy the Commands from the Repository and paste the Commands into Your Local profile.ps1
 
 4. **Enable Script Execution (if restricted)**  
    Run:  
