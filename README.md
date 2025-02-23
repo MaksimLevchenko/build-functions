@@ -3,8 +3,6 @@ This repository will post a script that helps use Serverpod and Buildrunner, and
 
 ### Usage
 
-### Commands Executed
-
 #### 1. `build`
 - Checks if the current directory or a subdirectory ends with `_flutter`.
 - Executes the following commands:
